@@ -45,6 +45,7 @@ if _name_ == "_main_":
 
     if word_count is not None:
         print(f"Word count in '{file_path}': {word_count}")
+```
 
 ### OUTPUT:
 ![output](exp.jpeg)
